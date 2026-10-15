@@ -15,17 +15,17 @@ separate repository, linked below.
 
 | Lab | Topic | Repository |
 |-----|-------|------------|
-| 1 | Classes and Objects | [java-oop-lab1](https://github.com/divine-mark/java-oop-lab1) |
-| 2 | Constructors, `this`, `static` | [java-oop-lab2](https://github.com/divine-mark/java-oop-lab2) |
-| 3 | Encapsulation | [java-oop-lab3](https://github.com/divine-mark/java-oop-lab3) |
-| 4 | Inheritance | [java-oop-lab4](https://github.com/divine-mark/java-oop-lab4) |
-| 5 | Polymorphism | [java-oop-lab5](https://github.com/divine-mark/java-oop-lab5) |
-| 6 | Abstraction | [java-oop-lab6](https://github.com/divine-mark/java-oop-lab6) |
-| 7 | Exception Handling | [java-oop-lab7](https://github.com/divine-mark/java-oop-lab7) |
-| 8 | Generics and Collections | [java-oop-lab8](https://github.com/divine-mark/java-oop-lab8) |
-| 9 | Nested Types, Enums, Records | [java-oop-lab9](https://github.com/divine-mark/java-oop-lab9) |
-| 10 | File I/O, Lambdas, Streams | [java-oop-lab10](https://github.com/divine-mark/java-oop-lab10) |
-| 11 | Design Patterns & Mini-Project | [java-oop-lab11](https://github.com/divine-mark/java-oop-lab11) |
+| 1 | Classes and Objects | [java-oop-lab1](https://github.com/divine-mark/Lab1-Classes-and-Objects-OOP) |
+| 2 | Constructors, `this`, `static` | [java-oop-lab2](https://github.com/divine-mark/Lab-2-Constructors-the-this-keyword-and-static-members) |
+| 3 | Encapsulation | [java-oop-lab3](https://github.com/divine-mark/Lab-3-Encapsulation-and-Access-Modifiers) |
+| 4 | Inheritance | [java-oop-lab4](https://github.com/divine-mark/Lab-4-Inheritance) |
+| 5 | Polymorphism | [java-oop-lab5](https://github.com/divine-mark/Lab-5-Polymorphism) |
+| 6 | Abstraction | [java-oop-lab6](https://github.com/divine-mark/Lab-6-Abstraction-Abstract-Classes-and-Interfaces) |
+| 7 | Exception Handling | [java-oop-lab7](https://github.com/divine-mark/Lab-7-Exception-Handling) |
+| 8 | Generics and Collections | [java-oop-lab8](https://github.com/divine-mark/Lab-8-Generics-and-the-Collections-Framework) |
+| 9 | Nested Types, Enums, Records | [java-oop-lab9](https://github.com/divine-mark/Lab-9-Nested-Types-Enums-Records-and-the-Object-Contract) |
+| 10 | File I/O, Lambdas, Streams | [java-oop-lab10](https://github.com/divine-mark/Lab-10-File-I-O-Lambdas-and-Streams) |
+| 11 | Design Patterns & Mini-Project | [java-oop-lab11](https://github.com/divine-mark/Lab-11-Design-Patterns-and-Mini-Project) |
 
 ## Course Overview
 
