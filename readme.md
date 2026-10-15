@@ -26,7 +26,7 @@ separate repository, linked below.
 | 9 | Nested Types, Enums, Records | [java-oop-lab9](https://github.com/divine-mark/Lab-9-Nested-Types-Enums-Records-and-the-Object-Contract) |
 | 10 | File I/O, Lambdas, Streams | [java-oop-lab10](https://github.com/divine-mark/Lab-10-File-I-O-Lambdas-and-Streams) |
 | 11 | Design Patterns & Mini-Project | [java-oop-lab11](https://github.com/divine-mark/Lab-11-Design-Patterns-and-Mini-Project) |
-| 12 | Assignment| [Bank-assignmen](https://github.com/divine-mark/Assignment) |
+| 12 | Assignment| [Bank-assignment](https://github.com/divine-mark/Assignment) |
 
 ## Course Overview
 
