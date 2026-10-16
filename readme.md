@@ -2,6 +2,7 @@
 
 **Registration Number:** H250333E  
 **Course:** Object Oriented Programming  
+**Department:** Computer Science
 **Institution:** Harare Institute of Technology
 **GitHub:** [@divine-mark](https://github.com/divine-mark)
 
